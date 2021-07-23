@@ -1,0 +1,10 @@
+# Project exclude paths
+/webpack-01/webpack-02-config/dist/
+/webpack-01/webpack-02-config/node_modules/
+/webpack-01/webpack-03-loader/dist/
+/webpack-01/webpack-03-loader/node_modules/
+/webpack-01/webpack-04-vue/dist/
+/webpack-01/webpack-04-vue/node_modules/
+/webpack-01/webpack-05-plugin/dist/
+/webpack-01/webpack-05-plugin/node_modules/
+/webpack-01/webpack-06/node_modules/
